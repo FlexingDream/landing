@@ -35,7 +35,7 @@ article {
 
 /** Header */
 .banner {
-  background-image: url("http://res.cloudinary.com/gavinching/image/upload/f_auto,fl_progressive/v1463864469/porterbg.png");
+  background-image: url("http://res.cloudinary.com/gavinching/image/upload/f_auto,fl_progressive/v1464361341/virtual_symphony.png");
   background-size: cover
   background: black none no-repeat center center;
 }
@@ -98,7 +98,7 @@ article {
 }
 
 .sect1-video {
-  top: -250px;
+  top: -150px;
   position: absolute;
   z-index: -1000;
   min-width: 100%;
